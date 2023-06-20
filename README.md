@@ -1,6 +1,26 @@
 # Hey There 🥶
-public class Shaur0108 {<br>    public String name;<br>    private String location;<br>    private String instagram;<br>    private int age;<br><br>    public Shaur0108() {<br>        this.name = "Shaurya";<br>        this.location = "Singapore";<br>        this.instagram = "@5h4ury4";<br>        this.age = 16;<br>    }<br><br>    public static void main(String[] args) {<br>        Programmer me = new Shaur0108();<br>        System.out.println("Hello world!");<br>    }<br>}
 
+``` Java
+public class Shaur0108 {
+public String name;
+private String location;
+private String instagram;
+private int age;
+
+public Shaur0108() {
+this.name = “Shaurya”;
+this.location = “Singapore”;
+this.instagram = “@5h4ury4”;
+this.age = 16;
+  }
+}
+
+public static void main(String[] args) {
+Programmer me = new Shaur0108();
+System.out.println(“Hello world!”);
+}
+
+```
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5h4ury4) 
