@@ -17,7 +17,7 @@ this.age = 16;
 
 public static void main(String[] args) {
 Programmer me = new Shaur0108();
-System.out.println(“Hello world!”);
+System.out.println(“It's Not a Bug, It's a Feature 👾”);
 }
 
 ```
