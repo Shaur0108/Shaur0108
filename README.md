@@ -11,14 +11,11 @@ public Shaur0108() {
 this.name = “Shaurya”;
 this.location = “Singapore”;
 this.instagram = “@5h4ury4”;
-this.age = 16;
+this.age = 17;
   }
 }
 
-public static void main(String[] args) {
-Programmer me = new Shaur0108();
-System.out.println(“It's Not a Bug, It's a Feature 👾”);
-}
+
 
 ```
 
